@@ -23,6 +23,6 @@ Here are the current statistics of submissions: [Link](https://yawn-sean.github.
 ## Today's Problem
 
 | Difficulty | Problems | Hints | Solution |
-| -------- | -------- | -------- | -------- |
-| 1700 | [CF1118E](https://codeforces.com/problemset/problem/1118/E) | Find a simple rule to satisfy all of the conditions. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1016/solution/cf1118e.md) |
-| 2000 | [CF641E](https://codeforces.com/problemset/problem/641/E) | You can consider each element and process its queries separately. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/10/1016/solution/cf641e.md) |
+| ---------- | -------- | ----- | -------- |
+| 1600 | [CF319A](https://codeforces.com/problemset/problem/319/A) | After considering the largest bit, we can divide the array into two parts which are basically the same. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1130/solution/cf319a.md) |
+| 2200 | [CF369D](https://codeforces.com/problemset/problem/369/D) | There is a pattern that the remaining fools should follow. | [Editorial](https://github.com/Yawn-Sean/Daily_CF_Problems/blob/main/daily_problems/2024/11/1130/solution/cf369d.md) |
